@@ -1,0 +1,23 @@
+{
+  "name": "token-factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bit-Nation/token-factory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bit-Nation/token-factory/issues"
+  },
+  "homepage": "https://github.com/Bit-Nation/token-factory#readme",
+  "dependencies": {
+    "solc": "^0.4.18"
+  }
+}
