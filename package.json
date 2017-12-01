@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "testrpc": "node_modules/.bin/testrpc --account=\"0x360650f8576c66ed6147a92a6b33ede1f40be18f5749db9e2f7fd9857334a554,1000000000000000000000000\""
+    "testrpc": "node_modules/.bin/truffle develop"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,6 @@
     "solc": "^0.4.18"
   },
   "devDependencies": {
-    "ethereumjs-testrpc": "^6.0.3"
+    "truffle": "^4.0.1"
   }
 }
